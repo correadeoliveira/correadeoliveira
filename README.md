@@ -1,6 +1,6 @@
 <img width="585" alt="Banner com nome e profissão" src="https://user-images.githubusercontent.com/48134231/122968571-0fc8b680-d362-11eb-942d-ea0b981f6cb3.png">
 
-🚀 - Sou um estudante apaixonado por ciência de dados com uma experiência
+🚀 - Sou um estudante apaixonado por ciência de dados e engenharia de dados com uma experiência
 acadêmica significativa em projetos de análise exploratória e construção de
 modelos preditivos, processos de tratamento, modelagem e uso dos dados;
 
