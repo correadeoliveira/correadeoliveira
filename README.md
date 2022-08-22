@@ -5,6 +5,6 @@
 
 👨‍🎓 - Estou realizando uma especialização em Engenharia de dados pela POLI-USP e sou formado Banco de dados, Data Science e Big Data na FIAP
 
-📚 - Atualmente estudando e desenvolvendo projetos sobre Engenharia de dados e Computação na nuvem;
+📚 - Atualmente estudando e desenvolvendo projetos sobre Engenharia de dados, Computação na nuvem e Blockchain;
 
 📫 - Para entrar em contato comigo, estou disponível no [Linkedin](https://www.linkedin.com/in/thiago-correa-dados/) e também estou no [Instagram](https://www.instagram.com/thiagoucorrea/)
