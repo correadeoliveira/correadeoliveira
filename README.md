@@ -1,11 +1,10 @@
-<img width="585" alt="Banner com nome e profissão" src="https://user-images.githubusercontent.com/48134231/122968571-0fc8b680-d362-11eb-942d-ea0b981f6cb3.png">
 
-🚀 - Sou um estudante apaixonado por ciência de dados e engenharia de dados com uma experiência
-acadêmica significativa em projetos de análise exploratória e construção de
-modelos preditivos, processos de tratamento, modelagem e uso dos dados;
+![capa](https://user-images.githubusercontent.com/48134231/185955384-2908623a-d146-4e7d-8aea-fc649e518dde.png)
 
-👨‍🎓 - Curso Banco de dados, Data Science e Big Data na FIAP e sou formado em Técnico em Informática pela ETEC de itaquera;
+🚀 - Sou um engenheiro de dados apaixonado por aprender, desenvolver e agregar valor onde eu trabalho. Sou um entusiasta de novas tecnologias para resolver problemas de formas mais eficazes, e possuo experiência acadêmica e profissional significativa em ciência de dados e processos de engenharia.
 
-📚 - Atualmente estudando e desenvolvendo projetos sobre Engenharia de Machine Learning;
+👨‍🎓 - Estou realizando uma especialização em Engenharia de dados pela POLI-USP e sou formado Banco de dados, Data Science e Big Data na FIAP
 
-📫 - Para entrar em contato comigo, estou disponível no [Linkedin](https://www.linkedin.com/in/thiago-corr%C3%AAa-72297b161/) e também estou no [Instagram](https://www.instagram.com/thiagocorreaoriginal/)
+📚 - Atualmente estudando e desenvolvendo projetos sobre Engenharia de dados e Computação na nuvem;
+
+📫 - Para entrar em contato comigo, estou disponível no [Linkedin](https://www.linkedin.com/in/thiago-correa-dados/) e também estou no [Instagram](https://www.instagram.com/thiagoucorrea/)
