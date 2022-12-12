@@ -8,11 +8,3 @@
 📚 - Atualmente estudando e desenvolvendo projetos sobre Engenharia de dados, Computação na nuvem e Blockchain;
 
 📫 - Para entrar em contato comigo, estou disponível no [Linkedin](https://www.linkedin.com/in/thiago-correa-dados/) e também estou no [Instagram](https://www.instagram.com/thiagoucorrea/)
-
-
-#### Usar o Lint 
-Execute o comando abaixo:
-
-```bash
-windows\lint.bat
-```
