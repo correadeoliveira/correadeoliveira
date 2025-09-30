@@ -1,10 +1,10 @@
 
 ![capa](https://user-images.githubusercontent.com/48134231/185955384-2908623a-d146-4e7d-8aea-fc649e518dde.png)
 
-🚀 - Sou um engenheiro de dados apaixonado por aprender, desenvolver e agregar valor onde eu trabalho. Sou um entusiasta de novas tecnologias para resolver problemas de formas mais eficazes, e possuo experiência acadêmica e profissional significativa em ciência de dados e processos de engenharia.
+🚀 - Eu utilizo a IA para resolver desafios do mundo real, conduzindo pesquisas especificamente voltadas para promover o bem social e o impacto positivo. Esse compromisso se estende tanto ao desenvolvimento de soluções inovadoras para empresas quanto à liderança de projetos filantrópicos apresentados em meu site pessoal (um espaço para meus modelos de IA, descobertas científicas e artigos). 
 
-👨‍🎓 - Estou realizando uma especialização em Engenharia de dados pela POLI-USP e sou formado Banco de dados, Data Science e Big Data na FIAP
+👨‍🎓 - Minha abordagem combina métodos analíticos rigorosos com um profundo senso de propósito para criar resultados significativos em diversas aplicações, científicas ou empreendedoras, com foco na inovação e na construção do futuro. 
 
-📚 - Atualmente estudando e desenvolvendo projetos sobre Engenharia de dados, Computação na nuvem e Blockchain;
+📚 - Com formação em Ciência de Dados, minha trajetória profissional é guiada pela curiosidade e pelo desejo de aplicar a tecnologia de maneiras significativas. Além do meu trabalho profissional e acadêmico, meu compromisso com a comunidade se baseia no meu trabalho voluntário na Igreja Católica, que sustenta meu propósito de promover um impacto positivo.
 
 📫 - Para entrar em contato comigo, estou disponível no [Linkedin](https://www.linkedin.com/in/thiago-correa-dados/) e também estou no [Instagram](https://www.instagram.com/thiagoucorrea/)
