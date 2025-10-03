@@ -1,6 +1,3 @@
-
-![capa](https://user-images.githubusercontent.com/48134231/185955384-2908623a-d146-4e7d-8aea-fc649e518dde.png)
-
 🚀 - Eu utilizo a IA para resolver desafios do mundo real, conduzindo pesquisas especificamente voltadas para promover o bem social e o impacto positivo. Esse compromisso se estende tanto ao desenvolvimento de soluções inovadoras para empresas quanto à liderança de projetos filantrópicos apresentados em meu site pessoal (um espaço para meus modelos de IA, descobertas científicas e artigos). 
 
 👨‍🎓 - Minha abordagem combina métodos analíticos rigorosos com um profundo senso de propósito para criar resultados significativos em diversas aplicações, científicas ou empreendedoras, com foco na inovação e na construção do futuro. 
