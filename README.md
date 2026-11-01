@@ -4,4 +4,4 @@
 
 📚 - Com formação em Ciência de Dados, minha trajetória profissional é guiada pela curiosidade e pelo desejo de aplicar a tecnologia de maneiras significativas. Além do meu trabalho profissional e acadêmico, meu compromisso com a comunidade se baseia no meu trabalho voluntário na Igreja Católica, que sustenta meu propósito de promover um impacto positivo.
 
-📫 - Para entrar em contato comigo, estou disponível no [Linkedin](https://www.linkedin.com/in/thiago-correa-dados/) e também estou no [Instagram](https://www.instagram.com/thiagoucorrea/)
+📫 - Para entrar em contato comigo, estou disponível no [Linkedin](https://www.linkedin.com/in/thiago-correa-dados/) e também estou no [Instagram](https://www.instagram.com/thiagocjesse/)
